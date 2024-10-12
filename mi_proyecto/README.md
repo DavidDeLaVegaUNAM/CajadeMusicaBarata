@@ -20,32 +20,21 @@ Este proyecto es una aplicación gráfica desarrollada en **Python** utilizando 
 ## Instalación
 
 1. Clona el repositorio:
-
+  ```
    git clone https://github.com/DavidDeLaVegaUNAM/CajadeMusicaBarata.git
    ```
 
 2. Instala las dependencias necesarias:
-
+  ```
    pip install -r requirements.txt
-
+  ```
 
 3. Ejecuta la aplicación:
-
+  ```
    python3 main.py
+  ```
 
 
-## Estructura del Proyecto
-
-El proyecto tiene la siguiente estructura:
-
-```
-├── app.py                    # Archivo principal de la GUI
-├── db_manager.py             # Módulo para manejar la base de datos
-├── miner.py                  # Módulo para extraer metadatos de archivos de audio
-├── README.md                 # Documentación del proyecto
-├── requirements.txt          # Dependencias del proyecto
-└── assets                    # Recursos adicionales, si es necesario
-```
 
 ## Descripción del Código
 
